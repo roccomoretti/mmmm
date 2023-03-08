@@ -1,2 +1,3 @@
-# mmmm
-MacroMolecular Modeling and Manipulation
+# MacroMolecular Modeling and Manipulation
+
+_Because "design" didn't start with M_
